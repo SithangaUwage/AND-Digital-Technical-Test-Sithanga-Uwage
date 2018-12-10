@@ -1,0 +1,53 @@
+.candidates {
+  font-size: 12px;
+  background: #fff;
+  margin: 45px;
+  width: 480px;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.candidates th {
+  font-size: 16px;
+  font-weight: normal;
+  color: #039;
+  padding: 10px 8px;
+  border-bottom: 2px solid #6678b1;
+}
+
+.candidates td {
+  color: #669;
+  padding: 9px 8px 0px 8px;
+}
+
+.candidates tbody tr:hover td {
+  color: #009;
+}
+
+#filterText {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+#firstHeader {
+  margin-top: 100px;
+}
+
+.navbar-default {
+  background: #fff;
+  border: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+  color: #000;
+  font-weight: bold;
+}
+
+h2 {
+  margin-left: 10px;
+}
+
+#filterTextDiv {
+  margin-left: 10px;
+}
